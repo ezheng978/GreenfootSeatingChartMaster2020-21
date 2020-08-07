@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 #Greenfoot properties
 #Tue Jul 21 15:53:19 PDT 2020
 target24.type=ClassTarget
@@ -267,6 +268,34 @@ class.japhethwun.superclass=Student
 readme.editor.width=900
 target8.editor.width=900
 class.SumedhVaidyanathan.superclass=Student
+=======
+#Greenfoot project file
+class.Classroom.image=csa.jpg
+class.MrKaehms.image=MrKaehms.jpg
+dependency1.from=Classroom
+dependency1.to=EricZheng
+dependency1.type=UsesDependency
+dependency2.from=Student
+dependency2.to=Classroom
+dependency2.type=UsesDependency
+editor.fx.0.height=722
+editor.fx.0.width=800
+editor.fx.0.x=317
+editor.fx.0.y=50
+height=400
+package.numDependencies=2
+package.numTargets=10
+project.charset=UTF-8
+publish.hasSource=false
+publish.locked=true
+publish.longDesc=
+publish.shortDesc=
+publish.tags=
+publish.title=
+publish.url=
+readme.height=58
+readme.name=@README
+>>>>>>> Stashed changes
 readme.width=47
 dependency11.from=Classroom
 target5.type=ClassTarget
@@ -640,6 +669,7 @@ target18.editor.height=700
 target29.name=JohnSo
 target13.typeParameters=
 target9.y=0
+<<<<<<< Updated upstream
 target9.x=0
 target1.naviview.expanded=true
 target11.naviview.expanded=true
@@ -657,3 +687,10 @@ target14.x=0
 target15.editor.height=700
 class.C3.image=board.jpg
 =\=\=\=\=\=\=
+=======
+version=3.0.0
+width=700
+world.lastInstantiated=Classroom
+xPosition=0
+yPosition=0
+>>>>>>> Stashed changes
