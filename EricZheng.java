@@ -3,7 +3,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * The KilgoreTrout class can be used as a model for your own class that represents you and your seating location in AP CSA
  * 
- * @author Mr. Kaehms
+ * @author Eric Zheng
  * @version 2.0 Aug 13, 2019
  * @version 3.0 July 21, 2020
  */
@@ -96,6 +96,7 @@ int i;
         while (! sitting) {
         String q=Greenfoot.ask("Are you ready to start (yes/no)");
         if (q.contains("yes")){
+        bluej.utility.Utility.openWebBrowser("https://drive.google.com/file/d/1ndDRYPx43E1vne4DHCvighAscRY9bEBo/view");
          // put in your lesson here - you can open up a browser for a screencast
          // Create a blackboard image and write to it, etc
          // Use an animated gif and dub over with audio - see "controls/show sound recoder"
